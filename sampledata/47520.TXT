@@ -1,0 +1,762 @@
+        Station Name: Shinjo
+  WMO Station Number: 47520
+National I.D. Number:         
+             Country: JAPAN
+          WMO Region: REGION II - ASIA                   
+            Latitude:  38d 45m N
+           Longitude: 140d 19m E
+           Elevation:      105 m
+
+In the following tables,
+   byr = beginning year of normals or extremes data period
+   eyr = ending year of normals or extremes data period
+   NA = Not Applicable, data not submitted or not computed
+   * = value > 0 but < units resolution
+   Ann-NCDC = annual value computed by NCDC from monthly
+              values provided by Members
+==========================================================
+The normals data and climate variable descriptions are
+presented in these tables as provided by the WMO Member
+country.
+==========================================================
+
+
+  Element 01:  Dry Bulb Temperature (deg C)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan        -1.3
+   Feb         -.9
+   Mar         2.6
+   Apr         8.5
+   May        14.2
+   Jun        18.9
+   Jul        21.6
+   Aug        24.4
+   Sep        19.7
+   Oct        12.2
+   Nov         6.5
+   Dec         2.3
+  Annual      10.7
+ Ann-NCDC     10.7
+------------------
+
+  Element 02:  Maximum Dry Bulb Temperature (deg C)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan         1.7
+   Feb         2.4
+   Mar         6.6
+   Apr        14.4
+   May        20.2
+   Jun        24.3
+   Jul        26.2
+   Aug        29.6
+   Sep        24.4
+   Oct        17.4
+   Nov        10.7
+   Dec         5.6
+  Annual      15.3
+ Ann-NCDC     15.3
+------------------
+
+  Element 03:  Minimum Dry Bulb Temperature (deg C)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan        -4.4
+   Feb        -4.5
+   Mar        -1.4
+   Apr         2.9
+   May         8.7
+   Jun        14.2
+   Jul        18.0
+   Aug        20.3
+   Sep        16.1
+   Oct         7.9
+   Nov         2.7
+   Dec         -.7
+  Annual       6.6
+ Ann-NCDC      6.7
+------------------
+
+  Element 06:  Precipitation (mm)
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan       184.4
+   Feb       123.7
+   Mar        89.7
+   Apr       101.9
+   May        88.0
+   Jun       119.5
+   Jul       137.0
+   Aug       177.2
+   Sep       140.0
+   Oct       130.9
+   Nov       183.8
+   Dec       179.7
+  Annual    1655.8
+ Ann-NCDC   1655.8
+------------------
+
+  Element 09:  Snowfall (cm)
+MNDLYMX (Statistic 09):  Mean Daily Maximum Value
+MEANMLY (Statistic 15):  Mean Monthly Value
+--------------------------
+      byr:    1961    1961
+      eyr:    1990    1990
+Statistic: MNDLYMX MEANMLY
+  Month
+--------------------------
+   Jan          50     314
+   Feb          31     210
+   Mar          20      62
+   Apr           2       3
+   May           0       0
+   Jun           0       0
+   Jul           0       0
+   Aug           0       0
+   Sep           0       0
+   Oct           *       *
+   Nov          15      37
+   Dec          38     139
+  Annual        55     764
+ Ann-NCDC       NA   765.0
+--------------------------
+
+  Element 10:  Snow Depth (cm)
+MAX_VAL (Statistic 04):  Maximum Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan          94
+   Feb         108
+   Mar          75
+   Apr          12
+   May           0
+   Jun           0
+   Jul           0
+   Aug           0
+   Sep           0
+   Oct           0
+   Nov          17
+   Dec          43
+  Annual       112
+ Ann-NCDC       NA
+------------------
+
+  Element 11:  Relative Humidity (%)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan          82
+   Feb          80
+   Mar          74
+   Apr          70
+   May          70
+   Jun          74
+   Jul          79
+   Aug          77
+   Sep          80
+   Oct          81
+   Nov          81
+   Dec          81
+  Annual        77
+ Ann-NCDC     77.4
+------------------
+
+  Element 12:  Sea Level Pressure (hPa)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan      1017.8
+   Feb      1018.7
+   Mar      1015.9
+   Apr      1015.2
+   May      1012.2
+   Jun      1009.7
+   Jul      1009.9
+   Aug      1009.0
+   Sep      1013.5
+   Oct      1017.3
+   Nov      1018.8
+   Dec      1017.9
+  Annual    1014.6
+ Ann-NCDC   1014.7
+------------------
+
+  Element 13:  Station Pressure (hPa)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan      1003.5
+   Feb      1004.4
+   Mar      1001.9
+   Apr      1001.4
+   May       998.8
+   Jun       996.5
+   Jul       996.9
+   Aug       996.2
+   Sep      1000.3
+   Oct      1003.8
+   Nov      1004.9
+   Dec      1003.7
+  Annual    1001.0
+ Ann-NCDC   1001.0
+------------------
+
+  Element 14:  Vapor Pressure (hPa)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan         4.6
+   Feb         4.7
+   Mar         5.5
+   Apr         7.7
+   May        11.2
+   Jun        15.8
+   Jul        20.2
+   Aug        23.5
+   Sep        18.6
+   Oct        11.6
+   Nov         8.0
+   Dec         6.0
+  Annual      11.5
+ Ann-NCDC     11.4
+------------------
+
+  Element 15:  Sunshine
+%OFPOSS (Statistic 37):  Percent of Possible
+MN_#HRS (Statistic 44):  Mean Number of Hours
+--------------------------
+      byr:    1961    1961
+      eyr:    1990    1990
+Statistic: %OFPOSS MN_#HRS
+  Month
+--------------------------
+   Jan        12.0    37.5
+   Feb        19.0    56.3
+   Mar        29.0   108.7
+   Apr        40.0   158.8
+   May        41.0   179.1
+   Jun        38.0   170.2
+   Jul        32.0   145.1
+   Aug        42.0   177.8
+   Sep        28.0   104.3
+   Oct        29.0    99.6
+   Nov        19.0    58.6
+   Dec        14.0    41.5
+  Annual      30.0  1337.6
+ Ann-NCDC       NA  1337.5
+--------------------------
+
+  Element 16:  Wind Speed (m/sec)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1975
+      eyr:    1990
+  Month
+------------------
+   Jan         3.3
+   Feb         3.0
+   Mar         3.3
+   Apr         3.2
+   May         3.0
+   Jun         2.9
+   Jul         2.8
+   Aug         2.5
+   Sep         2.3
+   Oct         2.2
+   Nov         2.7
+   Dec         3.1
+  Annual       2.9
+ Ann-NCDC      2.9
+------------------
+
+  Element 17:  Wind Direction (degrees)
+Statistic 38:  Frequency
+   Qualifier:   022.5 degrees           
+   Qualifier:   045.0 degrees           
+   Qualifier:   067.5 degrees           
+   Qualifier:   090.0 degrees           
+   Qualifier:   112.5 degrees           
+   Qualifier:   135.0 degrees           
+   Qualifier:   157.5 degrees           
+   Qualifier:   180.0 degrees           
+   Qualifier:   202.5 degrees           
+----------------------------------------------------------------------------------
+      byr:    1975    1975    1975    1975    1975    1975    1975    1975    1975
+      eyr:    1990    1990    1990    1990    1990    1990    1990    1990    1990
+Qualifier:   022.5   045.0   067.5   090.0   112.5   135.0   157.5   180.0   202.5
+  Month
+----------------------------------------------------------------------------------
+   Jan        .090    .050    .030    .010    .030    .060    .040    .030    .040
+   Feb        .090    .070    .020    .010    .020    .060    .040    .040    .030
+   Mar        .090    .060    .020    .020    .060    .080    .050    .030    .030
+   Apr        .080    .050    .010    .020    .050    .080    .040    .050    .040
+   May        .070    .030    .020    .030    .070    .080    .050    .050    .060
+   Jun        .070    .030    .020    .050    .120    .130    .070    .050    .040
+   Jul        .080    .040    .010    .060    .150    .140    .070    .050    .030
+   Aug        .080    .050    .020    .050    .150    .140    .070    .050    .040
+   Sep        .080    .050    .030    .050    .110    .160    .100    .060    .060
+   Oct        .080    .060    .030    .030    .050    .100    .080    .060    .050
+   Nov        .080    .060    .030    .030    .050    .090    .050    .040    .040
+   Dec        .100    .060    .020    .020    .020    .060    .040    .040    .050
+  Annual      .080    .050    .020    .030    .070    .100    .060    .050    .040
+ Ann-NCDC       NA      NA      NA      NA      NA      NA      NA      NA      NA
+----------------------------------------------------------------------------------
+
+  Element 17:  Wind Direction (degrees)
+Statistic 38:  Frequency
+   Qualifier:   225.0 degrees           
+   Qualifier:   247.5 degrees           
+   Qualifier:   270.0 degrees           
+   Qualifier:   292.5 degrees           
+   Qualifier:   315.0 degrees           
+   Qualifier:   337.5 degrees           
+   Qualifier:   360.0 degrees           
+------------------------------------------------------------------
+      byr:    1975    1975    1975    1975    1975    1975    1975
+      eyr:    1990    1990    1990    1990    1990    1990    1990
+Qualifier:   225.0   247.5   270.0   292.5   315.0   337.5   360.0
+  Month
+------------------------------------------------------------------
+   Jan        .020    .030    .040    .110    .200    .130    .080
+   Feb        .030    .040    .050    .140    .170    .110    .090
+   Mar        .030    .030    .040    .130    .170    .070    .080
+   Apr        .030    .040    .070    .110    .140    .090    .080
+   May        .030    .050    .070    .120    .110    .080    .080
+   Jun        .030    .030    .040    .050    .070    .080    .100
+   Jul        .030    .030    .030    .050    .060    .070    .090
+   Aug        .030    .030    .040    .050    .080    .050    .070
+   Sep        .030    .020    .040    .060    .060    .050    .050
+   Oct        .050    .040    .050    .070    .110    .080    .080
+   Nov        .050    .040    .040    .090    .160    .080    .090
+   Dec        .040    .030    .050    .090    .180    .130    .080
+  Annual      .030    .030    .050    .090    .130    .080    .080
+ Ann-NCDC       NA      NA      NA      NA      NA      NA      NA
+------------------------------------------------------------------
+
+  Element 17:  Wind Direction (degrees)
+PREVAIL (Statistic 41):  Prevailing
+------------------
+      byr:    1975
+      eyr:    1990
+  Month
+------------------
+   Jan       315.0
+   Feb       315.0
+   Mar       315.0
+   Apr       315.0
+   May       292.5
+   Jun       135.0
+   Jul       112.5
+   Aug       112.5
+   Sep       135.0
+   Oct       315.0
+   Nov       315.0
+   Dec       315.0
+  Annual     315.0
+ Ann-NCDC       NA
+------------------
+
+  Element 20:  Sky Cover (Cloud Cover) (okta)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan         7.4
+   Feb         7.3
+   Mar         6.9
+   Apr         5.8
+   May         6.0
+   Jun         6.2
+   Jul         6.6
+   Aug         5.8
+   Sep         6.6
+   Oct         6.1
+   Nov         6.8
+   Dec         7.3
+  Annual       6.6
+ Ann-NCDC      6.6
+------------------
+
+  Element 51:  Number Days with Thunder (count)
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan          .4
+   Feb          .0
+   Mar          .0
+   Apr         1.2
+   May         1.2
+   Jun         1.8
+   Jul         1.0
+   Aug         2.8
+   Sep         1.4
+   Oct         1.0
+   Nov         2.2
+   Dec         2.6
+  Annual      15.6
+ Ann-NCDC     15.6
+------------------
+
+  Element 56:  Number Days with Snowfall (count)
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan        26.6
+   Feb        21.8
+   Mar        17.4
+   Apr         3.6
+   May          .0
+   Jun          .0
+   Jul          .0
+   Aug          .0
+   Sep          .0
+   Oct          .0
+   Nov         5.6
+   Dec        19.2
+  Annual      94.2
+ Ann-NCDC     94.2
+------------------
+
+  Element 73:  Number Days with no Sunshine (count)
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan         7.2
+   Feb         6.2
+   Mar         5.6
+   Apr         3.4
+   May         3.4
+   Jun         3.0
+   Jul         5.2
+   Aug         2.6
+   Sep         5.0
+   Oct         3.8
+   Nov         7.8
+   Dec         8.8
+  Annual      62.0
+ Ann-NCDC     62.0
+------------------
+
+  Element 83:  Number Days Maximum Temperature GE Threshold (count)
+Statistic 15:  Mean Monthly Value
+   Qualifier:    25.0 deg C             
+   Qualifier:    30.0 deg C             
+--------------------------
+      byr:    1961    1961
+      eyr:    1990    1990
+Qualifier:    25.0    30.0
+  Month
+--------------------------
+   Jan          .0      .0
+   Feb          .0      .0
+   Mar          .0      .0
+   Apr          .8      .0
+   May         5.6      .0
+   Jun        13.0     1.6
+   Jul        17.6     5.6
+   Aug        28.8    14.6
+   Sep        14.6     1.2
+   Oct          .2      .0
+   Nov          .0      .0
+   Dec          .0      .0
+  Annual      80.6    23.0
+ Ann-NCDC     80.6    23.0
+--------------------------
+
+  Element 86:  Number Days Minimum Temperature GE Threshold (count)
+   Qualifier:    25.0 deg C             
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan          .0
+   Feb          .0
+   Mar          .0
+   Apr          .0
+   May          .0
+   Jun          .0
+   Jul          .2
+   Aug          .0
+   Sep          .0
+   Oct          .0
+   Nov          .0
+   Dec          .0
+  Annual        .2
+ Ann-NCDC      0.2
+------------------
+
+  Element 87:  Number Days Mean Temperature GE Threshold (count)
+   Qualifier:    25.0 deg C             
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan          .0
+   Feb          .0
+   Mar          .0
+   Apr          .0
+   May          .0
+   Jun          .0
+   Jul         3.8
+   Aug        13.8
+   Sep         1.2
+   Oct          .0
+   Nov          .0
+   Dec          .0
+  Annual      18.8
+ Ann-NCDC     18.8
+------------------
+
+  Element 91:  Number Days Maximum Temperature LT Threshold (count)
+   Qualifier:     0.0 deg C             
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan         9.6
+   Feb         7.4
+   Mar          .0
+   Apr          .0
+   May          .0
+   Jun          .0
+   Jul          .0
+   Aug          .0
+   Sep          .0
+   Oct          .0
+   Nov          .2
+   Dec          .8
+  Annual      18.0
+ Ann-NCDC     18.0
+------------------
+
+  Element 93:  Number Days Minimum Temperature LT Threshold (count)
+   Qualifier:     0.0 deg C             
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan        28.4
+   Feb        24.4
+   Mar        19.4
+   Apr         6.2
+   May          .0
+   Jun          .0
+   Jul          .0
+   Aug          .0
+   Sep          .0
+   Oct          .0
+   Nov         6.8
+   Dec        18.4
+  Annual     103.6
+ Ann-NCDC    103.6
+------------------
+
+  Element 95:  Number Days with Precipitation GE Threshold (count)
+Statistic 15:  Mean Monthly Value
+   Qualifier:     0.5 mm                
+   Qualifier:     1.0 mm                
+   Qualifier:    10.0 mm                
+   Qualifier:    30.0 mm                
+   Qualifier:    50.0 mm                
+   Qualifier:    70.0 mm                
+   Qualifier:   100.0 mm                
+------------------------------------------------------------------
+      byr:    1968    1961    1961    1961    1961    1961    1961
+      eyr:    1990    1990    1990    1990    1990    1990    1990
+Qualifier:     0.5     1.0    10.0    30.0    50.0    70.0   100.0
+  Month
+------------------------------------------------------------------
+   Jan        25.6    23.2     5.6      .4      .0      .0      .0
+   Feb        20.2    18.2     3.8      .0      .0      .0      .0
+   Mar        18.6    16.6     2.0      .0      .0      .0      .0
+   Apr        16.2    15.2     4.0      .0      .0      .0      .0
+   May        13.0    11.4     2.6      .2      .0      .0      .0
+   Jun        12.2    11.2     3.4      .8      .2      .2      .0
+   Jul        14.0    13.0     5.4      .4      .2      .2      .0
+   Aug        10.4     8.8     5.6     1.6     1.0      .2      .0
+   Sep        15.4    13.6     5.0      .8      .2      .0      .0
+   Oct        16.2    14.8     4.8     1.0      .0      .0      .0
+   Nov        19.8    17.2     6.2     1.0      .2      .0      .0
+   Dec        22.8    20.8     6.4     1.0      .0      .0      .0
+  Annual     204.4   184.0    54.8     7.2     1.8      .6      .0
+ Ann-NCDC    204.4   184.0    54.8     7.2     1.8     0.6     0.0
+------------------------------------------------------------------
+
+  Element BH:  Number Days Mean Temperature LT Threshold (count)
+   Qualifier:     0.0 deg C             
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan        21.4
+   Feb        17.6
+   Mar         4.4
+   Apr          .0
+   May          .0
+   Jun          .0
+   Jul          .0
+   Aug          .0
+   Sep          .0
+   Oct          .0
+   Nov          .6
+   Dec         6.8
+  Annual      50.8
+ Ann-NCDC     50.8
+------------------
+
+  Element BJ:  Number Days with Fog (count)
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1961
+      eyr:    1990
+  Month
+------------------
+   Jan         4.2
+   Feb         2.4
+   Mar         2.4
+   Apr         4.8
+   May         4.4
+   Jun         4.0
+   Jul         3.0
+   Aug         6.8
+   Sep         7.0
+   Oct        10.6
+   Nov         7.8
+   Dec         4.2
+  Annual      61.6
+ Ann-NCDC     61.6
+------------------
+
+  Element BM:  Number Days with Daily Maximum Wind Speed GE Threshold (count)
+Statistic 15:  Mean Monthly Value
+   Qualifier:    10.0 m/sec             
+   Qualifier:    15.0 m/sec             
+   Qualifier:    20.0 m/sec             
+   Qualifier:    30.0 m/sec             
+------------------------------------------
+      byr:    1975    1975    1975    1975
+      eyr:    1990    1990    1990    1990
+Qualifier:    10.0    15.0    20.0    30.0
+  Month
+------------------------------------------
+   Jan         5.8      .0      .0      .0
+   Feb         3.2      .0      .0      .0
+   Mar         4.8      .2      .0      .0
+   Apr         4.6      .2      .0      .0
+   May         3.8      .0      .0      .0
+   Jun          .8      .0      .0      .0
+   Jul          .0      .0      .0      .0
+   Aug          .6      .0      .0      .0
+   Sep          .4      .0      .0      .0
+   Oct         1.2      .0      .0      .0
+   Nov         3.8      .0      .0      .0
+   Dec         4.4      .0      .0      .0
+  Annual      33.4      .4      .0      .0
+ Ann-NCDC     33.4     0.4     0.0     0.0
+------------------------------------------
+
+  Element BT:  Number Days with Occurrence of Rain (count)
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1968
+      eyr:    1990
+  Month
+------------------
+   Jan        29.0
+   Feb        25.4
+   Mar        24.4
+   Apr        19.6
+   May        17.6
+   Jun        17.0
+   Jul        18.8
+   Aug        17.6
+   Sep        21.4
+   Oct        22.4
+   Nov        25.0
+   Dec        28.2
+  Annual     266.4
+ Ann-NCDC    266.4
+------------------
+
+  Element BW:  Number Days with Daily Maximum Snow Cover GE Threshold (count)
+Statistic 15:  Mean Monthly Value
+   Qualifier:     0.0 cm                
+   Qualifier:     5.0 cm                
+   Qualifier:    10.0 cm                
+   Qualifier:    20.0 cm                
+   Qualifier:    50.0 cm                
+   Qualifier:   100.0 cm                
+----------------------------------------------------------
+      byr:    1961    1961    1961    1961    1961    1961
+      eyr:    1990    1990    1990    1990    1990    1990
+Qualifier:     0.0     5.0    10.0    20.0    50.0   100.0
+  Month
+----------------------------------------------------------
+   Jan        30.6    29.8    29.4    25.8    16.0     2.8
+   Feb        27.6    27.6    27.0    25.6    18.0    10.0
+   Mar        20.4    17.8    16.6    15.8    12.0     7.0
+   Apr         3.4     1.8     1.4     1.0      .2      .0
+   May          .0      .0      .0      .0      .0      .0
+   Jun          .0      .0      .0      .0      .0      .0
+   Jul          .0      .0      .0      .0      .0      .0
+   Aug          .0      .0      .0      .0      .0      .0
+   Sep          .0      .0      .0      .0      .0      .0
+   Oct          .0      .0      .0      .0      .0      .0
+   Nov         6.2     4.4     3.0      .6      .0      .0
+   Dec        21.6    18.8    15.6     9.0     2.8      .0
+  Annual     109.8   100.2    93.0    77.8    49.0    19.8
+ Ann-NCDC    109.8   100.2    93.0    77.8    49.0    19.8
+----------------------------------------------------------

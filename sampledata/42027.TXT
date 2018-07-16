@@ -1,0 +1,300 @@
+        Station Name: SRINAGAR
+  WMO Station Number: 42027
+National I.D. Number:         
+             Country: INDIA
+          WMO Region: REGION II - ASIA                   
+            Latitude:  34d 05m N
+           Longitude: 074d 50m E
+           Elevation:     1587 m
+
+In the following tables,
+   byr = beginning year of normals or extremes data period
+   eyr = ending year of normals or extremes data period
+   NA = Not Applicable, data not submitted or not computed
+   * = value > 0 but < units resolution
+   Ann-NCDC = annual value computed by NCDC from monthly
+              values provided by Members
+==========================================================
+The normals data and climate variable descriptions are
+presented in these tables as provided by the WMO Member
+country.
+==========================================================
+
+
+  Element 01:  Dry Bulb Temperature (deg C)
+   MEAN (Statistic 01):  Mean Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+--------------------------
+      byr:    1971    1971
+      eyr:    1986    1986
+Statistic:    MEAN #_YEARS
+  Month
+--------------------------
+   Jan         2.5      14
+   Feb         3.8      15
+   Mar         8.8      15
+   Apr        14.2      15
+   May        17.7      16
+   Jun        22.3      15
+   Jul        24.1      15
+   Aug        23.5      15
+   Sep        19.8      15
+   Oct        14.1      13
+   Nov         8.1      14
+   Dec         3.4      13
+  Annual      13.5      NA
+ Ann-NCDC     13.5      NA
+--------------------------
+
+  Element 02:  Maximum Dry Bulb Temperature (deg C)
+   MEAN (Statistic 01):  Mean Value
+MAX_DLY (Statistic 11):  Maximum Daily Value
+DATEMAX (Statistic 12):  Date (Year/Day) of Occurrence of Maximum Daily Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+------------------------------------------
+      byr:    1971    1971    1971    1971
+      eyr:    1986    1986    1986    1986
+Statistic:    MEAN MAX_DLY DATEMAX #_YEARS
+  Month
+------------------------------------------
+   Jan         7.0    15.3  197609      14
+   Feb         8.2    18.1  198528      15
+   Mar        14.1    27.1  197127      15
+   Apr        20.5    30.0  197927      15
+   May        24.5    34.1  197128      16
+   Jun        29.6    37.6  197829      15
+   Jul        30.1    36.4  197614      15
+   Aug        29.6    35.3  197125      15
+   Sep        27.4    32.3  197903      15
+   Oct        22.4    30.5  197504      13
+   Nov        15.1    23.0  197905      14
+   Dec         8.2    15.2  197812      13
+  Annual      20.1    37.6      NA      NA
+ Ann-NCDC     19.7      NA      NA      NA
+------------------------------------------
+
+  Element 02:  Maximum Dry Bulb Temperature (deg C)
+   Qualifier:      11: Maximum Daily Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+------------------
+      byr:    1971
+      eyr:    1986
+  Month
+------------------
+   Jan          14
+   Feb          15
+   Mar          15
+   Apr          15
+   May          16
+   Jun          15
+   Jul          15
+   Aug          15
+   Sep          15
+   Oct          13
+   Nov          14
+   Dec          13
+  Annual        NA
+ Ann-NCDC       NA
+------------------
+
+  Element 03:  Minimum Dry Bulb Temperature (deg C)
+   MEAN (Statistic 01):  Mean Value
+MIN_DLY (Statistic 13):  Minimum Daily Value
+DATEMIN (Statistic 14):  Date (Year/Day) of Occurrence of Minimum Daily Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+------------------------------------------
+      byr:    1971    1971    1971    1971
+      eyr:    1986    1986    1986    1986
+Statistic:    MEAN MIN_DLY DATEMIN #_YEARS
+  Month
+------------------------------------------
+   Jan        -2.0    -7.7  197607      14
+   Feb         -.7   -10.4  197217      15
+   Mar         3.4    -3.2  198306      15
+   Apr         7.9      .0  198316      15
+   May        10.8     3.4  198213      16
+   Jun        14.9     7.2  197425      15
+   Jul        18.1    10.3  197502      15
+   Aug        17.5    10.4  198114      15
+   Sep        12.1     5.4  198429      15
+   Oct         5.8      .0  197125      13
+   Nov          .9    -6.3  197529      14
+   Dec        -1.5   -10.5  197423      13
+  Annual       7.7   -10.5      NA      NA
+ Ann-NCDC      7.3      NA      NA      NA
+------------------------------------------
+
+  Element 03:  Minimum Dry Bulb Temperature (deg C)
+   Qualifier:      13: Minimum Daily Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+------------------
+      byr:    1971
+      eyr:    1986
+  Month
+------------------
+   Jan          14
+   Feb          15
+   Mar          15
+   Apr          15
+   May          16
+   Jun          15
+   Jul          15
+   Aug          15
+   Sep          15
+   Oct          13
+   Nov          14
+   Dec          13
+  Annual        NA
+ Ann-NCDC       NA
+------------------
+
+  Element 06:  Precipitation (mm)
+MEANMLY (Statistic 15):  Mean Monthly Value
+MIN_MLY (Statistic 20):  Minimum Monthly Value
+QUIN20% (Statistic 22):  First Quintile
+QUIN40% (Statistic 23):  Second Quintile
+QUIN60% (Statistic 24):  Third Quintile
+QUIN80% (Statistic 25):  Fourth Quintile
+MAX_MLY (Statistic 26):  Maximum Monthly Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+--------------------------------------------------------------------------
+      byr:    1971    1961    1961    1961    1961    1961    1961    1971
+      eyr:    1990    1990    1990    1990    1990    1990    1990    1990
+Statistic: MEANMLY MIN_MLY QUIN20% QUIN40% QUIN60% QUIN80% MAX_MLY #_YEARS
+  Month
+--------------------------------------------------------------------------
+   Jan        48.0      .0    12.6    32.5    47.3    81.2   119.2      18
+   Feb        68.0    11.7    35.0    54.5    74.4    95.2   211.6      18
+   Mar       121.0     4.4    56.0    79.8   109.4   193.9   365.0      19
+   Apr        85.0    25.7    54.3    79.2   100.8   114.0   199.9      19
+   May        68.0    10.0    35.7    46.5    59.5    91.9   190.5      18
+   Jun        39.0     9.6    17.2    23.8    32.8    69.3    93.3      18
+   Jul        62.0    13.4    28.5    39.8    49.0    72.4   183.0      18
+   Aug        76.0     2.7    32.8    45.3    60.8    98.3   259.1      16
+   Sep        28.0      .0     7.7    14.3    30.1    66.3   105.4      16
+   Oct        33.0      .0     2.3    17.7    35.5    51.0   135.8      17
+   Nov        28.0      .0      .0     9.6    26.6    52.5   115.6      17
+   Dec        54.0      .0     5.0    22.0    41.0    74.3   244.0      17
+  Annual     701.0   361.4   619.2   663.8   721.3   781.9   990.9      NA
+ Ann-NCDC    710.0      NA      NA      NA      NA      NA      NA      NA
+--------------------------------------------------------------------------
+
+  Element 11:  Relative Humidity (%)
+   MEAN (Statistic 01):  Mean Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+--------------------------
+      byr:    1971    1971
+      eyr:    1986    1986
+Statistic:    MEAN #_YEARS
+  Month
+--------------------------
+   Jan        82.0      15
+   Feb        79.0      15
+   Mar        70.0      15
+   Apr        64.0      15
+   May        61.0      16
+   Jun        56.0      15
+   Jul        66.0      14
+   Aug        70.0      14
+   Sep        67.0      15
+   Oct        69.0      13
+   Nov        77.0      13
+   Dec        84.0      13
+  Annual      70.0      NA
+ Ann-NCDC     70.4      NA
+--------------------------
+
+  Element 14:  Vapor Pressure (hPa)
+   MEAN (Statistic 01):  Mean Value
+------------------
+      byr:    1971
+      eyr:    1986
+  Month
+------------------
+   Jan         5.7
+   Feb         6.1
+   Mar         7.7
+   Apr        10.3
+   May        12.8
+   Jun        16.0
+   Jul        20.3
+   Aug        20.3
+   Sep        14.7
+   Oct        10.3
+   Nov         7.8
+   Dec         6.1
+  Annual      11.5
+ Ann-NCDC     11.5
+------------------
+
+  Element 29:  Height of 850 hPa Geopotential Level (m)
+   MEAN (Statistic 01):  Mean Value
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+--------------------------
+      byr:    1971    1971
+      eyr:    1986    1986
+Statistic:    MEAN #_YEARS
+  Month
+--------------------------
+   Jan      1525.0      15
+   Feb      1513.0      15
+   Mar      1510.0      15
+   Apr      1496.0      15
+   May      1478.0      16
+   Jun      1428.0      14
+   Jul      1410.0      14
+   Aug      1423.0      14
+   Sep      1469.0      13
+   Oct      1516.0      12
+   Nov      1537.0      12
+   Dec      1543.0      13
+  Annual    1487.0      NA
+ Ann-NCDC       NA      NA
+--------------------------
+
+  Element 95:  Number Days with Precipitation GE Threshold (count)
+   Qualifier:     1.0 mm                
+MEANMLY (Statistic 15):  Mean Monthly Value
+------------------
+      byr:    1971
+      eyr:    1990
+  Month
+------------------
+   Jan         6.6
+   Feb         7.3
+   Mar        10.2
+   Apr         8.8
+   May         8.1
+   Jun         5.7
+   Jul         7.9
+   Aug         6.8
+   Sep         3.5
+   Oct         2.8
+   Nov         2.8
+   Dec         5.1
+  Annual      74.8
+ Ann-NCDC     75.6
+------------------
+
+  Element BT:  Number Days with Occurrence of Rain (count)
+#_YEARS (Statistic 98):  Number of Years used to Calculate Normal
+------------------
+      byr:    1971
+      eyr:    1990
+  Month
+------------------
+   Jan          18
+   Feb          18
+   Mar          19
+   Apr          19
+   May          18
+   Jun          18
+   Jul          18
+   Aug          16
+   Sep          16
+   Oct          17
+   Nov          17
+   Dec          17
+  Annual        NA
+ Ann-NCDC    211.0
+------------------
