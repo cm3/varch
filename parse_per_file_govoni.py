@@ -121,6 +121,21 @@ def draw_climograph(_dict_of_month):
         else:
             raise ValueError("Moisture clue missing.")
 
+"""
+快適温度範囲を描画
+2つの領域に分けて描画。湿球21℃（華氏70）、相対湿度80%のところの点は計算ではなく読み取りで、
+乾球温度24℃とする。そこから絶対湿度の算出は、abs_moist_relhum(24,0.8)でいいので
+24,abs_moist_relhum(24,0.8)と27,abs_moist_relhum(27,0.5)を通る直線。
+(x_values_2-24)*(abs_moist_relhum(27,50)-abs_moist_relhum(24,80))/3+abs_moist_relhum(24,80)
+"""
+
+def draw_confortzone(_plt):
+    x_values_1 = np.arange(20, 24+1, 1)
+    _plt.fill_between(x_values_1,abs_moist_relhum(x_values_1,20),abs_moist_relhum(x_values_1,80),facecolor='green',alpha=0.3)
+    x_values_2 = np.arange(24, 27+1, 1)
+    #print(abs_moist_relhum(24,80))
+    _plt.fill_between(x_values_2,abs_moist_relhum(x_values_2,20),(x_values_2-24)*(abs_moist_relhum(27,50)-abs_moist_relhum(24,80))/3+abs_moist_relhum(24,80),facecolor='green',alpha=0.3)
+
 def log_error(_any):
     with open("error.log","a",encoding="utf8") as f:
         f.write(str(_any)+"\n")
@@ -134,6 +149,7 @@ def main(_path):
 
     draw_bg(plt)
     draw_climograph(dict_of_month)
+    draw_confortzone(plt)
 
     plt.xlim(0, max_temperature)
     plt.ylim(0, max_abs_moist)
