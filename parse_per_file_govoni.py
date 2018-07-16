@@ -139,7 +139,7 @@ def main(_path):
     plt.ylim(0, max_abs_moist)
     plt.xlabel("Dry Bulb Temperature (℃)")
     plt.ylabel("Absolute Humidity (g/kg)")
-    plt.tick_params(axis='y', which='both', labelleft='off', labelright='on')
+    plt.tick_params(axis='y', which='both', labelleft=False, labelright=True)
     plt.grid()
     # plt.show()
     plt.savefig(_path[:-4]+".png")
